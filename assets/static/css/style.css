@@ -1,19 +1,10 @@
 html, body {
-   margin: 0; 
+   margin: 0;
 }
 
-body{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-.d-flex-c {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
-p {
-    font-size: 14pt;
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url("/assets/static/img/fundomenor.jpg");
 }
